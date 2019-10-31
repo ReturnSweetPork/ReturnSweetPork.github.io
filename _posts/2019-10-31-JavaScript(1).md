@@ -1,4 +1,4 @@
-# JavaScript(1) 생활코딩 1~10
+# JavaScript(1)
 
 
 
